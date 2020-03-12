@@ -1,4 +1,5 @@
-#pragma once
+#ifndef __MATH_CPP__
+#define ——MATH_CPP__
 
 using namespace std;
 
@@ -11,3 +12,5 @@ int Sub(int a, int b)
 {
 	return a - b;
 }
+
+#endif
