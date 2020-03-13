@@ -1,5 +1,5 @@
 #ifndef __MATH_CPP__
-#define ——MATH_CPP__
+#define __MATH_CPP__
 
 using namespace std;
 
